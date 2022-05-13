@@ -1,0 +1,211 @@
+{
+  "createdAt": "2022-04-06T17:25:25.255237",
+  "paises": [
+    {
+      "id": 1,
+      "nombre": "España",
+      "codigo": "ES",
+      "idioma": "Español",
+      "moneda": "Euro",
+      "capital": "Madrid",
+      "presupuesto": 1234567.23
+    },
+    {
+      "id": 2,
+      "nombre": "Francia",
+      "codigo": "FR",
+      "idioma": "Francés",
+      "moneda": "Euro",
+      "capital": "París",
+      "presupuesto": 123456.67
+    },
+    {
+      "id": 3,
+      "nombre": "Italia",
+      "codigo": "IT",
+      "idioma": "Italiano",
+      "moneda": "Euro",
+      "capital": "Roma",
+      "presupuesto": 564568.34
+    },
+    {
+      "id": 4,
+      "nombre": "Alemania",
+      "codigo": "DE",
+      "idioma": "Alemán",
+      "moneda": "Euro",
+      "capital": "Berlín",
+      "presupuesto": 234567.23
+    },
+    {
+      "id": 5,
+      "nombre": "Reino Unido",
+      "codigo": "UK",
+      "idioma": "Inglés",
+      "moneda": "Libra",
+      "capital": "Londres",
+      "presupuesto": 232323.34
+    },
+    {
+      "id": 6,
+      "nombre": "Japón",
+      "codigo": "JP",
+      "idioma": "Jsaponés",
+      "moneda": "Yen",
+      "capital": "Tokio",
+      "presupuesto": 21212.12
+    },
+    {
+      "id": 7,
+      "nombre": "China",
+      "codigo": "CN",
+      "idioma": "Chino",
+      "moneda": "Yuan",
+      "capital": "Pekín",
+      "presupuesto": 121212.34
+    },
+    {
+      "id": 8,
+      "nombre": "Australia",
+      "codigo": "AU",
+      "idioma": "Inglés",
+      "moneda": "Dólar",
+      "capital": "Canberra",
+      "presupuesto": 567654.23
+    },
+    {
+      "id": 9,
+      "nombre": "Argentina",
+      "codigo": "AR",
+      "idioma": "Español",
+      "moneda": "Peso",
+      "capital": "Buenos Aires",
+      "presupuesto": 123456.34
+    },
+    {
+      "id": 10,
+      "nombre": "Brasil",
+      "codigo": "BR",
+      "idioma": "Portugués",
+      "moneda": "Real",
+      "capital": "Brasilia",
+      "presupuesto": 251251.62
+    },
+    {
+      "id": 11,
+      "nombre": "Estados Unidos",
+      "codigo": "US",
+      "idioma": "Inglés",
+      "moneda": "Dólar",
+      "capital": "Washington",
+      "presupuesto": 1212415.98
+    }
+  ],
+  "acuerdos": [
+    {
+      "fecha": {
+        "date": {
+          "year": 2022,
+          "month": 3,
+          "day": 25
+        },
+        "time": {
+          "hour": 20,
+          "minute": 59,
+          "second": 57,
+          "nano": 0
+        }
+      },
+      "nombre": "Acuerdo Diplomático",
+      "aportacion": 1579.8799999999999,
+      "lineas": [
+        {
+          "pais": {
+            "id": 1,
+            "nombre": "España",
+            "codigo": "ES",
+            "idioma": "Español",
+            "moneda": "Euro",
+            "capital": "Madrid",
+            "presupuesto": 1234567.23
+          },
+          "año": 2022,
+          "subvencion": 1234.56
+        },
+        {
+          "pais": {
+            "id": 2,
+            "nombre": "Francia",
+            "codigo": "FR",
+            "idioma": "Francés",
+            "moneda": "Euro",
+            "capital": "París",
+            "presupuesto": 123456.67
+          },
+          "año": 2022,
+          "subvencion": 345.32
+        }
+      ],
+      "id": 1
+    },
+    {
+      "fecha": {
+        "date": {
+          "year": 2022,
+          "month": 3,
+          "day": 25
+        },
+        "time": {
+          "hour": 21,
+          "minute": 1,
+          "second": 40,
+          "nano": 0
+        }
+      },
+      "nombre": "Acuerdo de Fronteras",
+      "aportacion": 7450.79,
+      "lineas": [
+        {
+          "pais": {
+            "id": 4,
+            "nombre": "Alemania",
+            "codigo": "DE",
+            "idioma": "Alemán",
+            "moneda": "Euro",
+            "capital": "Berlín",
+            "presupuesto": 234567.23
+          },
+          "año": 2022,
+          "subvencion": 450.8
+        },
+        {
+          "pais": {
+            "id": 7,
+            "nombre": "China",
+            "codigo": "CN",
+            "idioma": "Chino",
+            "moneda": "Yuan",
+            "capital": "Pekín",
+            "presupuesto": 121212.34
+          },
+          "año": 2022,
+          "subvencion": 6666.66
+        },
+        {
+          "pais": {
+            "id": 2,
+            "nombre": "Francia",
+            "codigo": "FR",
+            "idioma": "Francés",
+            "moneda": "Euro",
+            "capital": "París",
+            "presupuesto": 123456.67
+          },
+          "año": 2022,
+          "subvencion": 333.33
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
